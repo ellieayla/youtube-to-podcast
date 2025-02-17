@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+        <title>Your awesome title</title>
+        <link>http://localhost:4000</link>
+        <language>en</language>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+        <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+        <lastBuildDate>Mon, 17 Feb 2025 02:02:01 -0500</lastBuildDate>
+        
+        <item>
+            <title>Welcome to Jekyll!</title>
+            <link>
+                
+            </link>
+            <description>
+                &lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; ...
+            </description>
+            <pubDate>Sun, 16 Feb 2025 15:21:26 -0500</pubDate>
+            <guid>
+                http://localhost:4000/jekyll/update/2025/02/16/welcome-to-jekyll.html
+            </guid>
+            <itunes:duration></itunes:duration>
+            <enclosure url="http://localhost:4000/" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is The Universe Expanding Into?</title>
+            <link>
+                https://www.youtube.com/watch?v=qS7tt_9P1k8
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-httpsgroundnewshotu-to-stay-fully-informed-on-whats-happening-in-and-out-of-our-solar-system-subscribe-through-my-link-to-get-40-off-unlimited-access&quot;&gt;Go to https://ground.news/hotu to stay fully informed on what’s happening in and out of our solar system. Subscribe through my link to get 40% off unlimited access.&lt;/h2&gt;
+&lt;p&gt;Written by Colin Stuart
+Check out his fantastic astronomy newsletter here: https://colinstuart.substack.com&lt;/p&gt;
+
+&lt;p&gt;Edited and animated by Siji Sheehan
+Narrated by David Kelly
+Thumbnail Art by Ettore Mazza
+Audio editing by Craig Stevenson
+Extra animations by  @ArtandContext  (Manuel Rubio) and Xinyu Gao
+Extra animations by Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Different universe types simulated in Curved Spaces by Jeff Weeks: https://www.geometrygames.org/CurvedSpaces/index.html.en&lt;/p&gt;
+
+&lt;p&gt;A huge thanks to our Ho’oleilana Patreon s...
+            </description>
+            <pubDate>Sat, 15 Feb 2025 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2025/02/15/qS7tt_9P1k8.html
+            </guid>
+            <itunes:duration>3449</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2025-02-15.qS7tt_9P1k8.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is The Ultimate Cosmic Limit?</title>
+            <link>
+                https://www.youtube.com/watch?v=GA5whe60Bvs
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-httpsgroundnewshotu-to-stay-fully-informed-on-whats-happening-in-and-out-of-our-solar-system-subscribe-through-my-link-to-get-50-off-unlimited-access&quot;&gt;Go to https://ground.news/HOTU to stay fully informed on what’s happening in and out of our solar system. Subscribe through my link to get 50% off unlimited access.&lt;/h2&gt;
+&lt;p&gt;Written by @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more:
+https://www.youtube.com/PaulMSutter
+https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;A huge thanks to our Ho’oleilana Patreon supporters - James Keller and Unpunnyfuns.&lt;/p&gt;
+
+&lt;p&gt;Edited by Manuel Rubio @ArtandContext 
+Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Big Bang Animations by Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown L...
+            </description>
+            <pubDate>Fri, 13 Dec 2024 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2024/12/13/GA5whe60Bvs.html
+            </guid>
+            <itunes:duration>5033</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-12-13.GA5whe60Bvs.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is Inside A Black Hole?</title>
+            <link>
+                https://www.youtube.com/watch?v=Zgu3qEPT86Q
+            </link>
+            <description>
+                &lt;h2 id=&quot;sign-up-for-a-14-day-free-trial-and-enjoy-all-the-amazing-features-myheritage-has-to-offer-httpsbitlyhotu_mh&quot;&gt;Sign up for a 14-day free trial and enjoy all the amazing features MyHeritage has to offer: https://bit.ly/HOTU_MH&lt;/h2&gt;
+&lt;p&gt;Written by Joseph Conlon
+Professor of Theoretical Physics, University of Oxford
+Check out his fantastic new book Origins: The Cosmos in Verse: https://www.amazon.co.uk/Origins-Cosmos-Verse-Joseph-Conlon/dp/0861549112&lt;/p&gt;
+
+&lt;p&gt;Edited and animated by Siji Sheehan
+Narrated by David Kelly
+Thumbnail Art by Ettore Mazza
+Audio editing by Craig Stevenson
+Extra animations by @ArtandContext (Manuel Rubio)
+Extra animations by Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC&lt;/p&gt;
+
+&lt;p&gt;A huge thanks to our Ho’oleilana Patreon supporters - James Keller and Unpunnyfuns.&lt;/p&gt;
+
+&lt;p&gt;Footage from Videoblocks, Artlist. Footage of galaxies from NASA, ...
+            </description>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2024/11/21/Zgu3qEPT86Q.html
+            </guid>
+            <itunes:duration>3385</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-11-21.Zgu3qEPT86Q.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Did The First Planets Come Before The First Galaxies?</title>
+            <link>
+                https://www.youtube.com/watch?v=HW9PLVjEiU8
+            </link>
+            <description>
+                &lt;p&gt;Enjoy 10% OFF on all Hoverpens and free shipping to most countries with code HOTU:
+USA / Canada / UK / International: https://bit.ly/HOTU_novium
+Europe: https://bit.ly/HOTU_noviumeu
+————————–
+Written by @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;A huge thanks to our Ho’oleilana Patreon supporters - James Keller and Unpunnyfuns.&lt;/p&gt;
+
+&lt;p&gt;Edited by Siji Sheehan
+Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Thanks to Martin Vargic at https://www.halcyonmaps.com/ for use of his fantastic exoplanet zoo.&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESO, and ESA
+Music from Epidemic Sound, Artlist, Silver Maple and Yehezkel Raz
+Stock footage from Videoblocks, Artgrid and Shutterstock&lt;/p&gt;
+
+&lt;p&gt;00:00 ...
+            </description>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/10/31/HW9PLVjEiU8.html
+            </guid>
+            <itunes:duration>3475</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-10-31.HW9PLVjEiU8.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Where Is Everything In The Universe Going?</title>
+            <link>
+                https://www.youtube.com/watch?v=5mDn2oq9OV8
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-httpbuyrayconcomhotu-to-get-20---50-off-sitewide-thanks-to-raycon-for-their-support&quot;&gt;Go to http://buyraycon.com/HOTU to get 20 - 50% off sitewide! Thanks to Raycon for their support.&lt;/h2&gt;
+&lt;p&gt;Written by @PaulMSutter &lt;br /&gt;
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Edited by Manuel Rubio @ArtandContext 
+Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Models of our large scale universe by Daniel Pomarède: https://x.com/DanielPomarede
+Sound Editing by Craig Stevenson&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESO, and ESA
+Music from Epidemic Sound, Artlist, Silver Maple and Yehezkel Raz
+Stock footage from Videoblocks, Artgrid and Shutterstock&lt;/p&gt;
+
+&lt;p&gt;00:00 Introduction
+05:08 Where Are You Going?
+14:26 Towards An...
+            </description>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/10/04/5mDn2oq9OV8.html
+            </guid>
+            <itunes:duration>3408</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-10-04.5mDn2oq9OV8.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>The Entire History of the Universe In 2 Minutes</title>
+            <link>
+                https://www.youtube.com/watch?v=iIO4CbxmcW4
+            </link>
+            <description>
+                &lt;p&gt;Join the NEW Patreon at: https://www.patreon.com/EntireHistoryoftheUniverse&lt;/p&gt;
+
+            </description>
+            <pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/09/29/iIO4CbxmcW4.html
+            </guid>
+            <itunes:duration>160</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-09-29.iIO4CbxmcW4.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is Reality?</title>
+            <link>
+                https://www.youtube.com/watch?v=ji2KKU5NfoY
+            </link>
+            <description>
+                &lt;h2 id=&quot;build-a-life-of-learning-with-imprint-go-to-this-link-to-start-your-journey-today-httpsimprintappcomuniverse-and-dont-forget-as-a-fan-of-history-of-the-universe-you-will-get-20-off-your-membership&quot;&gt;Build a life of learning with Imprint. Go to this link to start your journey today: https://imprintapp.com/universe and don’t forget, as a fan of History of the Universe you will get 20% off your membership.&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his YouTube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Edite...
+            </description>
+            <pubDate>Sat, 31 Aug 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/08/31/ji2KKU5NfoY.html
+            </guid>
+            <itunes:duration>9143</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-08-31.ji2KKU5NfoY.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Was There Before The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=h6BdWzMbWzw
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-httpsgroundnewshotu-to-stay-fully-informed-on-whats-happening-in-and-out-of-our-solar-system-subscribe-through-my-link-for-40-off-unlimited-access&quot;&gt;Go to https://ground.news/HOTU to stay fully informed on what’s happening in and out of our solar system. Subscribe through my link for 40% off unlimited access.&lt;/h2&gt;
+&lt;p&gt;Written by @@PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Big Bang Animations by Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Other animations by Manuel Rubio
+Other animations by A. Heikal&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESO, and ESA
+Music from Epidemi...
+            </description>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/06/28/h6BdWzMbWzw.html
+            </guid>
+            <itunes:duration>3683</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-06-28.h6BdWzMbWzw.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Does Quantum Mechanics Allow Free Will?</title>
+            <link>
+                https://www.youtube.com/watch?v=JBkB2D-_ZH0
+            </link>
+            <description>
+                &lt;p&gt;If you’re struggling, consider therapy with our sponsor BetterHelp. Click
+https://betterhelp.com/HOTU for a 10% discount on your first month of therapy with a licensed professional specific to your needs.
+————————————-
+Written by @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Edited and animated by Siji Sheehan
+Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Big Bang Animation by Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Other animations by Manuel Rubio&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESO, and ESA
+Music from Epidemic Sound, Artlist, Silver Maple and Yehezkel Raz
+Stock footage from Videoblocks, Artgrid and Shutterstock&lt;/p&gt;
+
+&lt;p&gt;00:...
+            </description>
+            <pubDate>Sun, 26 May 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/05/26/JBkB2D-_ZH0.html
+            </guid>
+            <itunes:duration>3352</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-05-26.JBkB2D-_ZH0.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is The Biggest Thing In The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=milGLbH3Ukg
+            </link>
+            <description>
+                &lt;h2 id=&quot;check-out-the-opera-browser-here-httpsoprasopera-browser-history-of-the-universe&quot;&gt;Check out the Opera browser here: https://opr.as/Opera-browser-History-of-the-Universe&lt;/h2&gt;
+&lt;p&gt;Written by  @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to Daniel Pomarède for the use of his visualizations of our local cosmological neighborhood, voids, and Laniakea: https://twitter.com/danielpomarede&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by @ArtandContext  (Manuel Rubio) and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+3D Visualizations by Xinyu Gao
+Big thanks to Dr Miguel Aragon and Dr Mark Neyrink for their model of Bootes
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv usin...
+            </description>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/04/18/milGLbH3Ukg.html
+            </guid>
+            <itunes:duration>3372</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-04-18.milGLbH3Ukg.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>When Actually Are You?</title>
+            <link>
+                https://www.youtube.com/watch?v=ZSmNii0uOmw
+            </link>
+            <description>
+                &lt;h2 id=&quot;get-a-great-displate-deal-at-httpswwwdisplatecomhotu-or-my-discount-code-hotu-for-1-2--22-off3-33-off-available-for-a-limited-period-of-time-excl-limited-editions-and-lumino-discount-applied-automatically-when-using-link&quot;&gt;Get a great Displate deal at https://www.displate.com/hotu or my discount code HOTU for 1-2 = 22% OFF/3+ 33% OFF, available for a limited period of time, excl. Limited Editions and Lumino. Discount applied automatically when using link.&lt;/h2&gt;
+
+&lt;p&gt;Written by Colin Stuart
+Check out his fantastic astronomy newsletter here: https://colinstuart.substack.com&lt;/p&gt;
+
+&lt;p&gt;Edited and Animated by the legendary Manuel Rubio - subscribe at @ArtandContext&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Whale Art by Joseph Ioseliani&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESA and ESO.
+Music from Epidemic Sound, Artlist...
+            </description>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2024/03/21/ZSmNii0uOmw.html
+            </guid>
+            <itunes:duration>3256</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-03-21.ZSmNii0uOmw.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is The Most Powerful Thing In The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=CuRicHU9sOc
+            </link>
+            <description>
+                &lt;p&gt;If you’re struggling, consider therapy with our sponsor BetterHelp. Click
+https://betterhelp.com/HOTU for a 10% discount on your first month of therapy with a
+licensed professional specific to your needs.
+———————————
+Written by @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by @ArtandContext (Maniel Rubio) and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESO, and ESA.
+Music from Epidemic Sound, Artlist and Silver Maple.
+Stock footage from Videoblocks, Artgrid and Shutterstock.&lt;/p&gt;
+
+&lt;p&gt;00:00 Introduction
+04:00 The Impossible Lights
+15:59 Our Quasar
+26:41 The Infernal Engine
+45:54 The Quasar Mystery&lt;/p&gt;
+
+&lt;p&gt;#quasars&lt;/p&gt;
+
+            </description>
+            <pubDate>Sun, 28 Jan 2024 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2024/01/28/CuRicHU9sOc.html
+            </guid>
+            <itunes:duration>3491</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2024-01-28.CuRicHU9sOc.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is (Almost) Everything Made Of?</title>
+            <link>
+                https://www.youtube.com/watch?v=UYW1lKNVI90
+            </link>
+            <description>
+                &lt;p&gt;If you’re struggling, consider therapy with our sponsor BetterHelp. Click
+https://betterhelp.com/HOTU for a 10% discount on your first month of therapy with a
+licensed professional specific to your needs.
+———————————-
+Written by Colin Stuart
+Check out his fantastic astronomy newsletter here: https://colinstuart.substack.com&lt;/p&gt;
+
+&lt;p&gt;Edited and Animated by the legend Manuel Rubio - @ArtandContext 
+Narrated by David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Further Art by Joseph Ioseliani
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv
+and Rami Dahouk (Using Manim - MITLicense, (c) 2020-2023 3Blue1Brown LLC)
+Huge thanks to Prof. Derek Leinweber for his visualisations at http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/Nobel/&lt;/p&gt;
+
+&lt;p&gt;Galaxies, space videos from NASA, ESA and ESO.
+Music from Epidemic Sound, Artlist, Silver Maple And Yeh...
+            </description>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2023/12/15/UYW1lKNVI90.html
+            </guid>
+            <itunes:duration>5148</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-12-15.UYW1lKNVI90.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Shouldn't The Universe Exist?</title>
+            <link>
+                https://www.youtube.com/watch?v=CFpTzgk5jk0
+            </link>
+            <description>
+                &lt;p&gt;Enjoy 10% discount and free shipping on all Hoverpens with code HOTU:
+North America &amp;amp; other countries: https://bit.ly/HOTU_novium
+UK &amp;amp; Europe: https://bit.ly/HOTU_noviumeu
+——————————–
+Written by Antonio Padilla
+Check out his fantastic book here: https://www.amazon.com/Fantastic-Numbers-Where-Find-Them/dp/0374600562&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to Prof. Derek Leinweber for his visualisations at http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/Nobel/&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by Manuel Rubio and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Galaxies, space videos from NASA, ESA and ESO.
+Music from Epidemic Sound, Artlist, Silver Maple And Yehezkel Raz.
+Stock footage from Videoblocks, Artgrid and Shutterstock....
+            </description>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2023/11/16/CFpTzgk5jk0.html
+            </guid>
+            <itunes:duration>3410</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-11-16.CFpTzgk5jk0.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>New Channel @HistoryofHumankind</title>
+            <link>
+                https://www.youtube.com/watch?v=Frqz-iGR9y8
+            </link>
+            <description>
+                &lt;p&gt;FIRST VIDEO OUT NOW: https://www.youtube.com/watch?v=Ve1QbQmdK3o&lt;/p&gt;
+
+            </description>
+            <pubDate>Sun, 15 Oct 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/10/15/Frqz-iGR9y8.html
+            </guid>
+            <itunes:duration>34</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-10-15.Frqz-iGR9y8.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Did James Webb Really See At The Beginning Of Time?</title>
+            <link>
+                https://www.youtube.com/watch?v=2pux7v9qJ58
+            </link>
+            <description>
+                &lt;h2 id=&quot;use-code-hotu50-to-get-50-off-your-first-factor-box-at-httpsbitly46fjw7z&quot;&gt;Use code HOTU50 to get 50% off your first Factor box at https://bit.ly/46fjW7Z!&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his YouTube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC&lt;/p&gt;
+
+&lt;p&gt;Extra editing by Manuel Rubio&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&l...
+            </description>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/10/06/2pux7v9qJ58.html
+            </guid>
+            <itunes:duration>3127</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-10-06.2pux7v9qJ58.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Are The First Stars Really Still Out There?</title>
+            <link>
+                https://www.youtube.com/watch?v=JLS90fyGZwg
+            </link>
+            <description>
+                &lt;h2 id=&quot;sign-up-now-at-https80000hoursorguniverse-to-get-started-planning-a-career-that-works-on-one-of-the-worlds-most-pressing-problems&quot;&gt;Sign up now at https://80000hours.org/universe to get started planning a career that works on one of the world’s most pressing problems.&lt;/h2&gt;
+&lt;p&gt;Written by Emma Chapman
+Check out her great book on this exact subject here: https://www.amazon.com/First-Light-Switching-Stars-Dawn/dp/1472962923&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by Manuel Rubio and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+CGI of Star Comparison Chart by Moritz Brand
+Galaxies, space videos from NASA, ESA and ESO.
+Music from Epidemic Sound, Artlist, Silver Maple And Yehezkel Raz.
+Stock footage from Videoblocks, Artgrid and Shutterst...
+            </description>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/09/08/JLS90fyGZwg.html
+            </guid>
+            <itunes:duration>3365</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-09-08.JLS90fyGZwg.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>How Early Could Life Have Appeared In The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=FpftRRm0jfA
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-our-sponsor-httpsbetterhelpcomhotu-for-10-off-your-first-month-of-therapy-with-betterhelp-and-get-matched-with-a-therapist-who-will-listen-and-help&quot;&gt;Go to our sponsor https://betterhelp.com/HOTU for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help.&lt;/h2&gt;
+&lt;p&gt;Written by @PaulMSutter 
+Check out his fantastic YouTube channel and podcast for more: https://www.pmsutter.com/shows/askaspaceman
+And his books which inspired this video: https://www.pmsutter.com/books&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by Manuel Rubio and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Sound Editing by Craig Stevenson
+Huge thanks to Bone Clones for footage of their fantastic skulls:
+https://boneclones.com/ (look out for much...
+            </description>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/07/28/FpftRRm0jfA.html
+            </guid>
+            <itunes:duration>3372</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-07-28.FpftRRm0jfA.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is Hidden In The Darkness At The Beginning Of Time?</title>
+            <link>
+                https://www.youtube.com/watch?v=o6wgOd8ghRY
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-our-sponsor-httpsbetterhelpcomhotu-for-10-off-your-first-month-of-therapy-with-betterhelp-and-get-matched-with-a-therapist-who-will-listen-and-help&quot;&gt;Go to our sponsor https://betterhelp.com/HOTU for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help.&lt;/h2&gt;
+&lt;p&gt;Written by Emma Chapman
+Check out her great book on this subject here: https://www.amazon.com/First-Light-Switching-Stars-Dawn/dp/1472962923&lt;/p&gt;
+
+&lt;p&gt;Narrated by David Kelly
+Edited by Manuel Rubio and David Kelly
+Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en
+Sound Editing by Craig Stevenson
+Boötes Void model by Miguel Aragon and Mark Neyrinck https://www.shapeways.com/product/B5FR9P77N/the-bootes-void
+CGI of Boötes by Moritz Brand
+Galaxies, space videos from NASA and ESO, and IllustrisTNG: https://www.tng-project.org/
+Images of the EDGES telescope from MIT Haystack: https://www.haystack.m...
+            </description>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/06/23/o6wgOd8ghRY.html
+            </guid>
+            <itunes:duration>3159</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-06-23.o6wgOd8ghRY.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>How Did The Universe Begin?</title>
+            <link>
+                https://www.youtube.com/watch?v=3Illx0WkCxU
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-our-sponsor-httpsbetterhelpcomhotu-for-10-off-your-first-month-of-therapy-with-betterhelp-and-get-matched-with-a-therapist-who-will-listen-and-help&quot;&gt;Go to our sponsor https://betterhelp.com/HOTU for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help.&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Leila Battison&lt;/p&gt;
+
+&lt;p&gt;Narrated and Edited by David Kelly&lt;/p&gt;
+
+&lt;p&gt;Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC&lt;/p&gt;
+
+&lt;p&gt;Thumbnail art by Ettore Mazza: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Art by Joseph Ioseliani&lt;/p&gt;
+
+&lt;p&gt;Sound Editing by Jack White&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Epidemic Sou...
+            </description>
+            <pubDate>Fri, 19 May 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/05/19/3Illx0WkCxU.html
+            </guid>
+            <itunes:duration>8806</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-05-19.3Illx0WkCxU.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Is Time Travel Possible In Our Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=JXZpac6TREw
+            </link>
+            <description>
+                &lt;h2 id=&quot;the-first-100-people-to-use-code-universe-at-the-link-below-will-get-60-off-of-incogni-httpsincognicomuniverse&quot;&gt;The first 100 people to use code UNIVERSE at the link below will get 60% off of Incogni: https://incogni.com/universe&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Colin Stuart
+Check out his superb Astrophysics for Beginners course here: https://www.colinstuart.net/astrophysics-course-for-beginners-introduction-online/&lt;/p&gt;
+
+&lt;p&gt;Edited by Manuel Rubio
+Narrated and Script Edited by David Kelly
+Thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Stock footage taken from Videoblocks and Artgrid, music from Epidemic Sound, Artlist, Silver Maple and Yehezkel Raz.
+Space imagery also used from NASA and ESO.&lt;/p&gt;
+
+&lt;p&gt;Specific image credits:
+AT Service via Wikimedia for im...
+            </description>
+            <pubDate>Sun, 09 Apr 2023 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2023/04/09/JXZpac6TREw.html
+            </guid>
+            <itunes:duration>2927</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-04-09.JXZpac6TREw.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>How Does Light Actually Work?</title>
+            <link>
+                https://www.youtube.com/watch?v=bAedYtUredI
+            </link>
+            <description>
+                &lt;h2 id=&quot;get-surfshark-vpn-at-httpssurfsharkdealsuniverse---enter-promo-code-universe-for-83-off-and-three-extra-months-for-free&quot;&gt;Get Surfshark VPN at https://surfshark.deals/universe - Enter promo code UNIVERSE for 83% off and three extra months for free!&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his YouTube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC&lt;/p&gt;
+
+&lt;p&gt;Music from...
+            </description>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2023/02/24/bAedYtUredI.html
+            </guid>
+            <itunes:duration>3298</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-02-24.bAedYtUredI.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Have We Really Found The Theory Of Everything?</title>
+            <link>
+                https://www.youtube.com/watch?v=E4CsY5B3BoI
+            </link>
+            <description>
+                &lt;h2 id=&quot;start-using-anydesk-the-blazing-fast-remote-desktop-software-today-at-httpsanydeskcomendownloadswindowsutm_sourcebrandutm_mediumyoutubeutm_campaignhotuutm_contentyt-sponsoringutm_termen&quot;&gt;Start using AnyDesk, the blazing-fast Remote Desktop Software, today at https://anydesk.com/en/downloads/windows?utm_source=brand&amp;amp;utm_medium=youtube&amp;amp;utm_campaign=hotu&amp;amp;utm_content=yt-sponsoring&amp;amp;utm_term=en&lt;/h2&gt;
+&lt;p&gt;Written by Joseph Conlon
+Professor of Theoretical Physics, University of Oxford
+Author, Why String Theory? https://www.amazon.com/Why-String-Theory-Joseph-Conlon/dp/1482242478
+Edited and Narrated by David Kelly
+Thumbnail Art by Ettore Mazza
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Huge thanks to Jeff Bryant for his Calabi-yau animation.&lt;/p&gt;
+
+&lt;p&gt;Footage from Videoblocks, Artlist. Footage of galaxies from NASA and ESO.
+Musi...
+            </description>
+            <pubDate>Sun, 29 Jan 2023 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2023/01/29/E4CsY5B3BoI.html
+            </guid>
+            <itunes:duration>2733</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2023-01-29.E4CsY5B3BoI.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Is Everything Made Of Atoms?</title>
+            <link>
+                https://www.youtube.com/watch?v=ae36scLdCsE
+            </link>
+            <description>
+                &lt;h2 id=&quot;offset-your-carbon-footprint-on-wren-httpswwwwrencostarthistoryoftheuniverse-the-first-100-people-who-sign-up-will-have-10-extra-trees-planted-in-their-name-this-video-has-been-sponsored-by-wren&quot;&gt;Offset your carbon footprint on Wren: https://www.wren.co/start/historyoftheuniverse The first 100 people who sign up will have 10 extra trees planted in their name. This video has been sponsored by Wren.&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Colin Stuart
+Check out his superb Astrophysics for Beginners course here: https://www.colinstuart.net/astrophysics-course-for-beginners-introduction-online/&lt;/p&gt;
+
+&lt;p&gt;Narrated and Edited by David Kelly
+Animations by Manuel Rubio
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Proton visualization courtesy of MIT, Jefferson Labs, and Sputnik Animation, Copyright © MIT and Jefferson Lab, 2021, All Rights Reserved&lt;/p&gt;
+
+&lt;p&gt;Stock foota...
+            </description>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2022/12/21/ae36scLdCsE.html
+            </guid>
+            <itunes:duration>2741</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-12-21.ae36scLdCsE.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Are The Hidden Rules Of The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=xJGaqe5t14g
+            </link>
+            <description>
+                &lt;h2 id=&quot;thank-you-to-wondrium-for-sponsoring-todays-video-signup-for-your-free-trial-to-wondrium-here-httpowlyajuh50lnlqp&quot;&gt;Thank you to Wondrium for sponsoring today’s video! Signup for your FREE trial to Wondrium here: http://ow.ly/aJUh50LnlQP&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC&lt;/p&gt;
+
+&lt;p&gt;Art created by soso11...
+            </description>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2022/11/23/xJGaqe5t14g.html
+            </guid>
+            <itunes:duration>2940</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-11-23.xJGaqe5t14g.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Does The Universe Look Like This?</title>
+            <link>
+                https://www.youtube.com/watch?v=iDqQ9qgTWmg
+            </link>
+            <description>
+                &lt;h2 id=&quot;thank-you-to-wondrium-for-sponsoring-todays-video-signup-for-your-free-trial-to-wondrium-here-httpowly3ba050l1htl&quot;&gt;Thank you to Wondrium for sponsoring today’s video! Signup for your FREE trial to Wondrium here: http://ow.ly/3bA050L1hTL&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Jon Farrow
+Narrated and Edited by David Kelly
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Laniakea animation by Alperaym
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to Daniel Pomarède for the use of his images of Laniakea and our local cosmological neighborhood: https://twitter.com/danielpomarede&lt;/p&gt;
+
+&lt;p&gt;Thank to Pablo Carlos Budassi for his wonderful images of the KBC Void, Shapley Supercluster and Bootes Void.&lt;/p&gt;
+
+&lt;p&gt;Stock footage taken from Videoblocks and Artgrid, music from Epidem...
+            </description>
+            <pubDate>Thu, 27 Oct 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/10/27/iDqQ9qgTWmg.html
+            </guid>
+            <itunes:duration>2810</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-10-27.iDqQ9qgTWmg.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Is Beyond The Edge?</title>
+            <link>
+                https://www.youtube.com/watch?v=_IkaetPoBZM
+            </link>
+            <description>
+                &lt;h2 id=&quot;compare-news-coverage-spot-media-bias-avoid-algorithms-be-well-informed-download-the-free-ground-news-app-at-httpsgroundnewshotu&quot;&gt;Compare news coverage. Spot media bias. Avoid algorithms. Be well informed. Download the free Ground News app at https://ground.news/HOTU&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Animations by the superb Jero Squartini https://www.fiverr.com/share/0v7Kjv using Manim - MIT License, (c) 2020-2023 3Blue1Brown LLC
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to Antonio Padilla for inspiring the section on TREE(3) - his book is wonderful, I have already read it twice:
+https://www.amazon.com/Fantastic-Numbers-Where-Find-Them/dp/0374600562&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt...
+            </description>
+            <pubDate>Fri, 30 Sep 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/09/30/_IkaetPoBZM.html
+            </guid>
+            <itunes:duration>2886</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-09-30._IkaetPoBZM.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>How Did Our Universe Emerge From Chaos?</title>
+            <link>
+                https://www.youtube.com/watch?v=qr0wyKbm7m4
+            </link>
+            <description>
+                &lt;h2 id=&quot;head-over-to-httpsbitly3avgydt-to-get-100-blades-free-with-your-first-razor-from-henson-using-the-code-universe&quot;&gt;Head over to https://bit.ly/3AvGyDT to get 100 blades FREE with your first razor from Henson, using the code ‘universe’.&lt;/h2&gt;
+&lt;p&gt;Researched and Written by JD Voyek
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;LMC by By ESO, A McLeod et al. - https://www.eso.org/public/images/eso1903a/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=76422254&lt;/p&gt;
+
+&lt;p&gt;Rutherford Research Lab By Science Museum London / Science and Society Picture Library - Sir Ernest Rutherfords laboratory, early 20th century. Uploaded by Mrjohncummings, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=28024311&lt;/p&gt;
+
+&lt;p&gt;Cloud Chamber by Michael F. Schönitzer, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, via Wikimedia Commons&lt;/p&gt;
+
+&lt;p&gt;Microcapsule Livermore Nati...
+            </description>
+            <pubDate>Sun, 28 Aug 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/08/28/qr0wyKbm7m4.html
+            </guid>
+            <itunes:duration>2814</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-08-28.qr0wyKbm7m4.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Actually Are Space And Time?</title>
+            <link>
+                https://www.youtube.com/watch?v=yPVQtvbiS4Y
+            </link>
+            <description>
+                &lt;h2 id=&quot;use-code-history16-for-up-to-16-free-meals--3-surprise-gifts-across-7-hellofresh-boxes-plus-free-shipping-at-httpsbitly3rkknac-&quot;&gt;Use code HISTORY16 for up to 16 FREE MEALS + 3 Surprise Gifts across 7 HelloFresh boxes plus free shipping at https://bit.ly/3Rkknac !&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;Art created by soso112429, and Joe from History Dose: www.youtube.com/historydose&lt;/p&gt;
+
+&lt;p&gt;Thanks to Alexander Long for speculative fict...
+            </description>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/07/27/yPVQtvbiS4Y.html
+            </guid>
+            <itunes:duration>4518</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-07-27.yPVQtvbiS4Y.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Where Are All The Hidden Dimensions?</title>
+            <link>
+                https://www.youtube.com/watch?v=9If-K9R3Ka4
+            </link>
+            <description>
+                &lt;h2 id=&quot;start-speaking-a-new-language-in-3-weeks-with-babbel--get-up-to-65-off-your-subscription-️-here-httpsgobabbelcomtbsc1200m65-youtube-historyoftheuniverse-july-2022btpdefaultutm_termgeneric_v1utm_mediumpaidsocialutm_sourceyoutubeutm_contentinfluencerhistory20of20the20universeusayoutube&quot;&gt;Start speaking a new language in 3 weeks with Babbel 🎉. Get up to 65% OFF your subscription ➡️ HERE: https://go.babbel.com/t?bsc=1200m65-youtube-historyoftheuniverse-july-2022&amp;amp;btp=default&amp;amp;utm_term=generic_v1&amp;amp;utm_medium=paidsocial&amp;amp;utm_source=YouTube&amp;amp;utm_content=Influencer..History%20of%20the%20Universe..USA..YouTube&lt;/h2&gt;
+&lt;p&gt;Written by Joseph Conlon
+Professor of Theoretical Physics, University of Oxford
+Author, Why String Theory? https://www.amazon.com/Why-String-Theory-Joseph-Conlon/dp/1482242478&lt;/p&gt;
+
+&lt;p&gt;Edited and Narrated by David Kelly
+Thumbnail Art by Ettore Mazza
+Huge thanks to Oliver Knill for the use of his Ca...
+            </description>
+            <pubDate>Sat, 02 Jul 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/07/02/9If-K9R3Ka4.html
+            </guid>
+            <itunes:duration>2591</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-07-02.9If-K9R3Ka4.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Was The First Black Hole?</title>
+            <link>
+                https://www.youtube.com/watch?v=HWVnmJpEPjk
+            </link>
+            <description>
+                &lt;h2 id=&quot;start-building-your-ideal-daily-routine--the-first-500-people-who-click-on-the-link-will-get-25-off-fabulous-premium-️-httpsthefabcohistoryoftheuniverse&quot;&gt;Start building your ideal daily routine ! The first 500 people who click on the link will get 25% OFF Fabulous Premium ➡️ https://thefab.co/historyoftheuniverse&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;REFERENCES:&lt;/p&gt;
+
+&lt;p&gt;https://web.archive.org/web/20050511104943/http://www.mdtap.org/TT/1999.05/1-art.html 
+https://solarsystem.nasa.gov/resources/399/kuiper-belt-in-depth/ 
+https://physicstoday.scitation.org/doi/10.1063/PT.3.4172 
+https://time.com/5199001/stephen-hawking-als/...
+            </description>
+            <pubDate>Thu, 26 May 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/05/26/HWVnmJpEPjk.html
+            </guid>
+            <itunes:duration>2988</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-05-26.HWVnmJpEPjk.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Happened To All The Neutrinos?</title>
+            <link>
+                https://www.youtube.com/watch?v=SedW4SdXNHU
+            </link>
+            <description>
+                &lt;p&gt;Get matched with a therapist who will listen and help. Get 10% off your first month: https://betterhelp.com/hotu 
+Thank you to BetterHelp for sponsoring this video
+——————————————————————————–
+Researched and Written by JD Voyek
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;REFERENCES:&lt;/p&gt;
+
+&lt;p&gt;https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577
+https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1983.0091
+https://www.nasa.gov/mission_pages/SOFIA/10-314.html
+https://www.nobelprize.org/prizes/physics/1995/reines/biographical/
+https://icecube.wisc.edu/about-us/facts/
+https://lbnf-dune.fnal.gov/how-it-works/detectors-and-computing/
+https://hubblesite.org/contents/media/images/1999/04/755-Image.html?keyword=1987a&amp;amp;filterUUID=6b40edb4-2a47-4f89-8047-2fe9359344f3
+https://www.nytimes.com/2020/11/16/science/masatoshi-koshiba-dead.html
+http://www-sk.icrr.u-tok...
+            </description>
+            <pubDate>Sun, 01 May 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/05/01/SedW4SdXNHU.html
+            </guid>
+            <itunes:duration>2570</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-05-01.SedW4SdXNHU.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>How Many Multiverses Are There?</title>
+            <link>
+                https://www.youtube.com/watch?v=1jmNzlTd09E
+            </link>
+            <description>
+                &lt;h2 id=&quot;head-to-httpsunderluckystarscomuniverse-and-use-the-code-universe-for-an-exclusive-10-discount-personalize-a-moment-under-the-stars&quot;&gt;Head to https://underluckystars.com/universe and use the code: universe for an exclusive 10% discount. Personalize a moment under the stars.&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;The wonderful multiverse map was created by Erebus:
+https://erebus-art.com/&lt;/p&gt;
+
+&lt;p&gt;And a huge thanks to the Illustris Collab...
+            </description>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2022/03/31/1jmNzlTd09E.html
+            </guid>
+            <itunes:duration>3982</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-03-31.1jmNzlTd09E.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Was Our Current Universe Already Inevitable At One Second Old?</title>
+            <link>
+                https://www.youtube.com/watch?v=9BEytifFFpc
+            </link>
+            <description>
+                &lt;p&gt;🌏 Get your exclusive NordVPN deal here ➼ https://nordvpn.com/hotu
+It’s risk-free with Nord’s 30-day money-back guarantee!
+——————————————————————————————
+00:00 Introduction
+05:59 A Hot Dense State
+19:22 How To Build A Universe
+26:39 A Glimpse Of Creation
+31:39 A Perfect Balance&lt;/p&gt;
+
+&lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;CORRECTIONS:&lt;/p&gt;
+
+&lt;p&gt;4800 stars are born in our observable universe per second, not Milky Way, and the amount of blood pumped around the body is per minute. Hope you caught those!&lt;/p&gt;
+
+&lt;p&gt;REFERENCES:&lt;/p&gt;
+
+&lt;p&gt;https://pa.as.uky.edu/video/when-universe-was-one-second-old
+https://physicsworld.com/a/pristine...
+            </description>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2022/03/10/9BEytifFFpc.html
+            </guid>
+            <itunes:duration>2737</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-03-10.9BEytifFFpc.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Was The Universe Born From Nothing?</title>
+            <link>
+                https://www.youtube.com/watch?v=MOItjGpiAfo
+            </link>
+            <description>
+                &lt;p&gt;Use my link https://bit.ly/HistoryoftheUniverseDCJan22 and check out the first chapter of any DataCamp course for FREE to unlock new career opportunities and become data fluent today!
+This video was sponsored by DataCamp.
+———————————————————————————-
+If you like this video, check out writer Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/c/AlasLewisAndBarnes&lt;/p&gt;
+
+&lt;p&gt;Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;And a huge thanks to the Illustris Collaboration for allowing the use of video footage of their excellent project:&lt;/p&gt;
+
+&lt;p&gt;https://www.tng-project.org/&lt;/p&gt;
+
+&lt;p&gt;Music from ...
+            </description>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2022/01/28/MOItjGpiAfo.html
+            </guid>
+            <itunes:duration>2510</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-01-28.MOItjGpiAfo.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Is Gravity So Weak?</title>
+            <link>
+                https://www.youtube.com/watch?v=4IxuXuLbMoQ
+            </link>
+            <description>
+                &lt;h2 id=&quot;go-to-httpscuriositystreamthldcohistoryoftheuniverse_0122-and-use-code-historyoftheuniverse-to-save-25-off-today-thats-only-1499-a-year-thanks-to-curiosity-stream-for-sponsoring-todays-video&quot;&gt;Go to https://curiositystream.thld.co/historyoftheuniverse_0122 and use code historyoftheuniverse to save 25% off today, that’s only $14.99 a year. Thanks to Curiosity Stream for sponsoring today’s video.&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Incredible thumbnail art by Ettore Mazza, the GOAT: https://www.instagram.com/ettore.mazza/?hl=en&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;REFERENCES AND SOURCES:&lt;/p&gt;
+
+&lt;p&gt;https://www.thecrimson.com/article/2006/1/6/supersymmetry-and-parallel-dimensions-professor-of/
+https://news.uchicago.edu/podcasts/big-brains/studying-universe-th...
+            </description>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2022/01/07/4IxuXuLbMoQ.html
+            </guid>
+            <itunes:duration>2484</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2022-01-07.4IxuXuLbMoQ.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Where Did Dark Matter And Dark Energy Come From?</title>
+            <link>
+                https://www.youtube.com/watch?v=fX_1pM64uUk
+            </link>
+            <description>
+                &lt;h2 id=&quot;claim-your-special-offer-for-magellantv-here-httpstrymagellantvcomhistoryoftheuniverse-start-your-free-trial-today-so-you-can-watch-other-earths-the-search-for-habitable-planets-and-the-rest-of-magellantvs-science-collection-httpswwwmagellantvcomvideoother-earths-the-search-for-habitable-planets&quot;&gt;Claim your SPECIAL OFFER for MagellanTV here: https://try.magellantv.com/historyoftheuniverse. Start your free trial TODAY so you can watch Other Earths: The Search For Habitable Planets, and the rest of MagellanTV’s science collection: https://www.magellantv.com/video/other-earths-the-search-for-habitable-planets&lt;/h2&gt;
+&lt;p&gt;If you like this video, check out Geraint Lewis´ excellent book, co-written with Chris Ferrie:
+Where Did the Universe Come From? And Other Cosmic Questions: Our Universe, from the Quantum to the Cosmos
+https://www.amazon.com/Where-Universe-Other-Cosmic-Questions/dp/1728238811&lt;/p&gt;
+
+&lt;p&gt;AND check out his Youtube channel:&lt;/p&g...
+            </description>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2021/12/03/fX_1pM64uUk.html
+            </guid>
+            <itunes:duration>2718</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-12-03.fX_1pM64uUk.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Is The Universe Out Of Balance?</title>
+            <link>
+                https://www.youtube.com/watch?v=I2_gYIxPHZE
+            </link>
+            <description>
+                &lt;h2 id=&quot;claim-your-special-offer-for-magellantv-here-httpstrymagellantvcomhistoryoftheuniverse-start-your-free-trial-today-so-you-can-watch-solar-superstorms-4k-and-the-rest-of-magellantvs-science-collection-httpswwwmagellantvcomvideosolar-superstorms-4k&quot;&gt;Claim your SPECIAL OFFER for MagellanTV here: https://try.magellantv.com/historyoftheuniverse. Start your free trial TODAY so you can watch Solar Superstorms 4K, and the rest of MagellanTV’s science collection: https://www.magellantv.com/video/solar-superstorms-4k&lt;/h2&gt;
+&lt;p&gt;Researched and Written by JD Voyek
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;REFERENCES:&lt;/p&gt;
+
+&lt;p&gt;https://www.britannica.com/biography/Santorio-Santorio
+https://www.sciencehistory.org/distillations/probing-the-mysteries-of-human-digestion
+https://www.theguardian.com/science/2009/apr/02/paul-dirac-strangest-man-farmelo-quantum
+https://www.nobelprize.org/prizes/physics/1933/dirac/biogr...
+            </description>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 -0500</pubDate>
+            <guid>
+                http://localhost:4000/2021/11/10/I2_gYIxPHZE.html
+            </guid>
+            <itunes:duration>2310</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-11-10.I2_gYIxPHZE.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Is The Universe Perfect?</title>
+            <link>
+                https://www.youtube.com/watch?v=lR9r7_MweK8
+            </link>
+            <description>
+                &lt;h2 id=&quot;claim-your-special-offer-for-magellantv-here-httpstrymagellantvcomhistoryoftheuniverse-start-your-free-trial-today-so-you-can-watch-faster-than-light-the-dream-of-interstellar-flight-and-the-rest-of-magellantvs-science-collection-httpswwwmagellantvcomvideofaster-than-light-the-dream-of-interstellar-flight-4k&quot;&gt;Claim your SPECIAL OFFER for MagellanTV here: https://try.magellantv.com/historyoftheuniverse. Start your free trial TODAY so you can watch Faster Than Light: The Dream of Interstellar Flight, and the rest of MagellanTV’s science collection: https://www.magellantv.com/video/faster-than-light-the-dream-of-interstellar-flight-4k&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Geraint F Lewis
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like this video, check out Geraint´s excellent book, co-written with Luke Barnes:
+A Fortunate Universe: Life in a Finely Tuned Cosmos
+https://www.amazon.com/Fortunate-Universe-Fin...
+            </description>
+            <pubDate>Fri, 08 Oct 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/10/08/lR9r7_MweK8.html
+            </guid>
+            <itunes:duration>2130</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-10-08.lR9r7_MweK8.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Really Is Everything?</title>
+            <link>
+                https://www.youtube.com/watch?v=euNr9PozCmg
+            </link>
+            <description>
+                &lt;h2 id=&quot;claim-your-special-offer-for-magellantv-here-httpstrymagellantvcomhistoryoftheuniverse-start-your-free-trial-today-so-you-can-watch-secrets-of-quantum-physics-4k-with-jim-al-khalili-and-the-rest-of-magellantvs-science-collection-httpswwwmagellantvcomseriessecrets-of-quantum-physics-4k&quot;&gt;Claim your SPECIAL OFFER for MagellanTV here: https://try.magellantv.com/historyoftheuniverse. Start your free trial TODAY so you can watch Secrets of Quantum Physics 4k with Jim Al-Khalili, and the rest of MagellanTV’s science collection: https://www.magellantv.com/series/secrets-of-quantum-physics-4k&lt;/h2&gt;
+&lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;Stock f...
+            </description>
+            <pubDate>Fri, 17 Sep 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/09/17/euNr9PozCmg.html
+            </guid>
+            <itunes:duration>2579</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-09-17.euNr9PozCmg.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Is The Universe The Same Everywhere?</title>
+            <link>
+                https://www.youtube.com/watch?v=5JM9RJFMHgc
+            </link>
+            <description>
+                &lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;Stock footage from Videoblocks.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;https://www.newscientist.com/definition/cosmic-inflation/
+https://www.forbes.com/sites/startswithabang/2017/09/28/is-the-inflationary-universe-a-scientific-theory-not-anymore/?sh=2079c3bb45e2
+https://www.youtube.com/watch?v=_llA2q1rlSg
+https://bigthink.com/surprising-science/baby-universes-black-holes-dark-matter
+https://www.forbes.com/sites/startswithabang/2018/07/14/ask-ethan-how-large-is-the-entire-unobservable-universe/?sh=6352507fdf80 
+https://www.livescience.com/33129-total-energy-universe-zero
+https://physicstoday.scitation.org/doi/10.1...
+            </description>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/06/25/5JM9RJFMHgc.html
+            </guid>
+            <itunes:duration>2305</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-06-25.5JM9RJFMHgc.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Is There One All Powerful Superforce Controlling The Universe?</title>
+            <link>
+                https://www.youtube.com/watch?v=uBk-Wst_7aA
+            </link>
+            <description>
+                &lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;Stock footage from Videoblocks.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;https://www.bbc.co.uk/news/56643677 
+https://www.britannica.com/science/weak-force 
+https://www.britannica.com/science/electroweak-theory 
+https://www.britannica.com/science/unified-field-theory 
+https://www.britannica.com/science/quantum-electrodynamics-physics 
+https://www.britannica.com/science/fundamental-interaction 
+http://ffden-2.phys.uaf.edu/webproj/211_fall_2016/Trevor_Jepsen/trevor_jepsen/Grand_unification.html
+https://lweb.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/text/text_part_3.html&lt;br /&gt;
+https://www.open.edu/openle...
+            </description>
+            <pubDate>Fri, 28 May 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/05/28/uBk-Wst_7aA.html
+            </guid>
+            <itunes:duration>2178</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-05-28.uBk-Wst_7aA.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Why Did Time Start Going Forward?</title>
+            <link>
+                https://www.youtube.com/watch?v=x9m0sz2sUfU
+            </link>
+            <description>
+                &lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;Stock footage from Videoblocks.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;https://www.wired.com/2010/02/what-is-time/
+https://www.nature.com/articles/d41586-018-04558-7
+https://www.cornell.edu/video/leonard-susskind-1-boltzmann-and-the-arrow-of-time
+http://www.preposterousuniverse.com/blog/2008/12/29/richard-feynman-on-boltzmann-brains/
+https://www.newscientist.com/article/mg23331133-200-universes-that-spawn-cosmic-brains-should-go-on-the-scrapheap/
+https://www.newscientist.com/article/mg21829184-400-string-theory-may-limit-space-brain-threat/
+https://www.forbes.com/sites/startswithabang/2017/04/15/ask-ethan-what-wa...
+            </description>
+            <pubDate>Fri, 14 May 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/05/14/x9m0sz2sUfU.html
+            </guid>
+            <itunes:duration>1785</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-05-14.x9m0sz2sUfU.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Was The Universe Like Immediately After The Big Bang?</title>
+            <link>
+                https://www.youtube.com/watch?v=kEg7yJzGiV4
+            </link>
+            <description>
+                &lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s Youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Silver Maple, Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;Stock footage from Videoblocks.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;https://newt.phys.unsw.edu.au/einsteinlight/jw/module6_Planck.htm 
+https://profmattstrassler.com/articles-and-posts/particle-physics-basics/quantum-fluctuations-and-their-energy/
+http://sten.astronomycafe.net/planck-era/
+https://www.abc.net.au/news/science/2015-11-25/einstein-general-relativity-100-years-on/6968370
+https://physics.aps.org/articles/v2/71
+https://courses.lumenlearning.com/physics/chapter/30-6-the-wave-nature-of-matter-causes-quantization/&lt;/p&gt;
+
+&lt;p&gt;Image credits:&lt;/p&gt;
+
+&lt;p&gt;Planck By Bundesarchiv, Bild 183-R01...
+            </description>
+            <pubDate>Fri, 30 Apr 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/04/30/kEg7yJzGiV4.html
+            </guid>
+            <itunes:duration>1742</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-04-30.kEg7yJzGiV4.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>Channel Trailer</title>
+            <link>
+                https://www.youtube.com/watch?v=abDYvRHtaEE
+            </link>
+            <description>
+                &lt;p&gt;From the creators of History of the Earth, Voices of the Past and Something Incredible.&lt;/p&gt;
+
+            </description>
+            <pubDate>Sat, 17 Apr 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/04/17/abDYvRHtaEE.html
+            </guid>
+            <itunes:duration>39</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-04-17.abDYvRHtaEE.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+        <item>
+            <title>What Was The Big Bang?</title>
+            <link>
+                https://www.youtube.com/watch?v=XSCrSkK2HcQ
+            </link>
+            <description>
+                &lt;p&gt;Researched and Written by Leila Battison
+Narrated and Edited by David Kelly
+Thumbnail Art by Ettore Mazza&lt;/p&gt;
+
+&lt;p&gt;If you like our videos, check out Leila’s youtube channel:&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/channel/UCXIk7euOGq6jkptjTzEz5kQ&lt;/p&gt;
+
+&lt;p&gt;Music from Epidemic Sound and Artlist.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;For Big Bang:
+https://www.forbes.com/sites/startswithabang/2018/07/27/there-was-no-big-bang-singularity/?sh=e6773577d815 
+https://www.space.com/31192-what-triggered-the-big-bang.html 
+https://www.forbes.com/sites/startswithabang/2017/09/21/the-big-bang-wasnt-the-beginning-after-all/?sh=53f4c6f655df 
+https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/georges-lemaitre-big-bang 
+https://www.quantamagazine.org/physicists-debate-hawkings-idea-that-the-universe-had-no-beginning-20190606/ 
+https://www.uwa.edu.au/science/-/media/Faculties/Science/Docs/Evidence-for-the-Big-Bang.pdf 
+https://...
+            </description>
+            <pubDate>Sat, 17 Apr 2021 00:00:00 -0400</pubDate>
+            <guid>
+                http://localhost:4000/2021/04/17/XSCrSkK2HcQ.html
+            </guid>
+            <itunes:duration>1720</itunes:duration>
+            <enclosure url="http://localhost:4000/audio/UCtRFmSyL4fSLQkn-wMqlmdA/2021-04-17.XSCrSkK2HcQ.m4a" length="5650889" type="audio/x-m4a" />
+        </item>
+        
+    </channel>
+</rss>
