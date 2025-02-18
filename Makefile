@@ -22,5 +22,10 @@ static:
 clean:
 	rm -rf YouTube
 
+.PHONY: expose
+expose:
+	tailscale funnel 4000
+
 .PHONY: all
 all: fetch index static
+
