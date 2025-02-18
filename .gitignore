@@ -1,0 +1,14 @@
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+_site
+_posts/*.markdown
+_audio/*/
+_channels/*.md
+.pytest_cache
+
+cache/
+
+seen.archive

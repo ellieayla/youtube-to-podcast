@@ -1,0 +1,44 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+        <title>{{ site.title }}</title>
+        <link>{{ site.url | absolute_url }}</link>
+        <language>en-US</language>
+        <copyright>Authors</copyright>
+        <itunes:author>Authors</itunes:author>
+
+        <atom:link href="{{ page.url | prepend: site.url }}" rel="self" type="application/rss+xml" />
+        <description>{{ site.description }}</description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png" />
+
+        <itunes:category text="Science" />
+        <itunes:explicit>false</itunes:explicit>
+
+        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+        {% for post in site.posts %}{% if post.audio %}
+        <item>
+            <title>{{ post.title | escape }}</title>
+            <link>{{ post.webpage_url }}</link>
+            <author>{{ post.author }}</author>
+            <description>
+                <![CDATA[{{ post.content | newline_to_br | truncate: "4000" }}]]>
+            </description>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <guid>
+                {{ post.url | prepend: site.url }}
+            </guid>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>{{ post.duration }}</itunes:duration>
+            <enclosure url="{{ post.audio | replace_first: '_', '/' | absolute_url }}" length="5650889" type="audio/m4a" />
+            {% if post.transcript %}<podcast:transcript type="text/vtt" url="{{ post.transcript | replace_first: '_', '/' | absolute_url }}" />{% endif %}
+        </item>
+        {% endif %}{% endfor %}
+    </channel>
+</rss>
