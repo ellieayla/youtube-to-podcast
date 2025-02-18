@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<div class="home">
+<div class="channel">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">{{ page.author }}</h1>
+    <p><a href="{{ page.webpage_url }}">{{ page.webpage_url }}</a></p>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Episodes" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {% if post.channel_id == page.channel_id %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -25,6 +27,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {% endif %}
       {%- endfor -%}
     </ul>
 

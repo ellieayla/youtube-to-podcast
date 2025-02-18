@@ -76,6 +76,8 @@ include:
 collections:
   audio:
     output: true
+  channels:
+    output: true
 
 defaults:
   - scope:
@@ -90,3 +92,9 @@ defaults:
       path: "_posts/**/*.markdown"
     values:
       layout: "post"
+
+  - scope:
+      path: ""
+      type: "channels"
+    values:
+      layout: "channel"
