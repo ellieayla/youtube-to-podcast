@@ -23,7 +23,7 @@ email: complaints@verselogic.net
 description: >- # this means to ignore newlines until "baseurl:"
   Rehosting of audio-centric youtube channels, to sleep to.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nemu.tail0dcac6.ts.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://podcast.tail0dcac6.ts.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 rss: rss
