@@ -36,5 +36,5 @@ build:
 	bundle exec jekyll build
 
 .PHONY: all
-all: update-git fetch index build
+all: fetch index build
 
