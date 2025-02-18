@@ -1,5 +1,10 @@
 
 
+.PHONY: update-git
+update-git:
+	git fetch
+	git pull
+
 # only recent items
 .PHONY: fetch
 fetch:
@@ -26,6 +31,10 @@ clean:
 expose:
 	tailscale funnel 4000
 
+.PHONY: build
+build:
+	bundle exec jekyll build
+
 .PHONY: all
-all: fetch index static
+all: update-git fetch index build
 
