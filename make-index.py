@@ -64,7 +64,7 @@ def parse_info_json(info_file: Path) -> Audio:
     with open(info_file) as f:
         i = json.load(f)
         
-        audio_file = find_file_beside_info_json(info_file, [".m4a"])
+        audio_file = find_file_beside_info_json(info_file, [".m4a", ".mp4"])
         
         if not audio_file:
             logger.warning(f"Skipping {info_file} - no matching m4a")
