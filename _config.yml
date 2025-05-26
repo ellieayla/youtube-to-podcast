@@ -90,6 +90,10 @@ defaults:
     values:
       m4a: true
   - scope:
+      path: "_audio/*/*.mp4"
+    values:
+      mp4: true
+  - scope:
       path: "_posts/**/*.markdown"
     values:
       layout: "post"
