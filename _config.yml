@@ -72,6 +72,7 @@ exclude:
 
 include:
   - _audio/**/*.m4a
+  - _audio/**/*.mp4
 
 collections:
   audio:
@@ -88,6 +89,10 @@ defaults:
       path: "_audio/*/*.m4a"
     values:
       m4a: true
+  - scope:
+      path: "_audio/*/*.mp4"
+    values:
+      mp4: true
   - scope:
       path: "_posts/**/*.markdown"
     values:
