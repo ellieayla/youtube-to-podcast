@@ -188,6 +188,12 @@ def main():
     channels = []
     for _ in n.paths:
         for c in read_source_files(_, using=parse_info_json_channel):
+
+            original_thumbnail = Path(c.thumbnail)
+            image_file = (Path("_channels") / c.channel_id).with_suffix(original_thumbnail.suffix)
+            image_file.write_bytes(original_thumbnail.read_bytes())
+            c.thumbnail = image_file.relative_to(Path("_channels"))
+
             markdown_file = (Path("_channels") / c.channel_id).with_suffix(".md")
             write_markdown_file(c, markdown_file, overwrite=n.overwrite)
             

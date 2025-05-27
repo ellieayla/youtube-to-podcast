@@ -36,6 +36,10 @@ plugins:
 sass:
   quiet_deps: true  # Deprecation Warning [color-functions]: darken() is deprecated.
 
+# Can't do this, because the feed won't be compatible with Apple Podcasts
+#feed:
+#  collections:
+#    - channels
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -103,3 +107,9 @@ defaults:
       type: "channels"
     values:
       layout: "channel"
+
+  - scope:
+      path: ""
+      type: "feedchannel"
+    values:
+      layout: "channelrss"
