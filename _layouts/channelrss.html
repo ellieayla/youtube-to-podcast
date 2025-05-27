@@ -15,7 +15,7 @@ layout: none
 
         <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
         <description>
-            <![CDATA[{{ page["channel"].content | xml_escape }}]]>
+            <![CDATA[{{ page["channel"].content }}]]>
         </description>
         <itunes:type>episodic</itunes:type>
         {{ page.url }}
@@ -32,7 +32,7 @@ layout: none
             <link>{{ post.webpage_url }}</link>
             <author>{{ post.author }}</author>
             <description>
-                <![CDATA[{{ post.content | newline_to_br | truncate: "4000" | xml_escape }}]]>
+                <![CDATA[{{ post.content | truncate: "4000" }}]]>
             </description>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <guid>{{ post.url | prepend: site.url }}</guid>
