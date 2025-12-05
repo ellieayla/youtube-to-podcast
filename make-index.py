@@ -80,6 +80,13 @@ def parse_info_json(info_file: Path) -> Audio:
             description = df.read()
             description = re.sub(r'^-+$', "", description, flags=re.MULTILINE)  # remove ^----$ heading rows
 
+        if not 'channel_id' in i:
+            if 'playlist_channel_id' in i:
+                i['channel_id'] = i['playlist_channel_id']
+        if not 'channel' in i:
+            if 'playlist_channel' in i:
+                i['channel'] = i['playlist_channel']
+
         # duration_string
         return Audio(
             date= datetime.strptime(i["upload_date"], "%Y%m%d").date(),
@@ -137,10 +144,13 @@ def parse_info_json_channel(info_file: Path):
 def read_source_files(source_directory, using=parse_info_json):
 
     for info_file in Path(source_directory).rglob("*.info.json"):
-        a = using(info_file)
-        if a:
+        try:
+          a = using(info_file)
+          if a:
             yield(a)
-
+        except:
+          logger.exception(f"Failed to parse {info_file=}")
+          raise
 
 def write_markdown_file(o: dataclass, markdown_file: Path, overwrite=False):
 
