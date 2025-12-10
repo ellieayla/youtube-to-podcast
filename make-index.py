@@ -2,7 +2,6 @@
 
 import json
 
-import logging.config
 from pathlib import Path
 from dataclasses import dataclass, field, asdict
 from datetime import datetime
@@ -10,6 +9,7 @@ from datetime import datetime
 import argparse
 import logging
 import re
+import string
 
 
 logger = logging.getLogger(__name__)
@@ -56,6 +56,30 @@ class Channel:
     
     def as_frontmatter(self):
         return "---\n\n" + json.dumps(self.as_dict(), default=str) + "\n\n---\n\n"
+
+
+def possibly_fix_up_audio_title(a: Audio):
+    """Rewrite titles to remove excitement."""
+    if a.channel_id == 'UCGfFUc6eWxfbtjYeun6r9xg':  # FloatHeadPhysics
+        remove_prefixes = (
+            'I finally understood ',
+            'I never understood ',
+            'I never understood ',
+            'I wish I was taught ',
+            'I finally understood ',
+        )
+        for prefix in remove_prefixes:
+            a.title = a.title.removeprefix(prefix)
+        
+        remove_excitement_regexes = (
+            re.compile('\s+\([^\)]{0,40}\)$'),
+            re.compile('\W*(until now)?!$', re.I),
+            re.compile('!$'),
+        )
+        for regex in remove_excitement_regexes:
+            a.title = regex.sub('', a.title)
+
+        a.title = string.capwords(a.title)
 
 
 def parse_info_json(info_file: Path) -> Audio:
@@ -109,7 +133,7 @@ def find_file_beside_info_json(info_file: Path, possible_suffix: list):
 
     for _ in possible_suffix:
         candidate = root.with_suffix(_)
-        print(f"Looking for {candidate=}")
+        #print(f"Looking for {candidate=}")
         if candidate.exists():
             return candidate
     return None
@@ -153,7 +177,7 @@ def read_source_files(source_directory, using=parse_info_json):
           raise
 
 def write_markdown_file(o: dataclass, markdown_file: Path, overwrite=False):
-
+    logger.info(f"Writing {markdown_file=}")
     proposed_string = o.as_frontmatter() + o.description
 
     if markdown_file.exists() and not overwrite:
@@ -192,10 +216,10 @@ def main():
     audio.sort(reverse=True)
 
     for _ in audio:
+        possibly_fix_up_audio_title(_)
         markdown_file = Path("_posts") / f"{_.date.isoformat()}-{_.id}.markdown"
         write_markdown_file(_, markdown_file, overwrite=n.overwrite)
 
-    channels = []
     for _ in n.paths:
         for c in read_source_files(_, using=parse_info_json_channel):
 
