@@ -21,7 +21,7 @@
 title: Sleep Science Feed
 email: complaints@verselogic.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Rehosting of audio-centric youtube channels, to sleep to.
+  Audio-centric youtube channels, to sleep to.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://podcast.tail0dcac6.ts.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -35,6 +35,14 @@ plugins:
 
 sass:
   quiet_deps: true  # Deprecation Warning [color-functions]: darken() is deprecated.
+
+header_pages:
+  - about.md
+  - channels.md
+  - episodes.md
+
+minima:
+  date_format: "%Y-%m-%d"
 
 # Can't do this, because the feed won't be compatible with Apple Podcasts
 #feed:
@@ -83,6 +91,7 @@ collections:
     output: true
   channels:
     output: true
+    sort_by: author
 
 defaults:
   - scope:

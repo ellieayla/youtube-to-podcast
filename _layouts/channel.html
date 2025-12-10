@@ -12,20 +12,18 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Episodes" }}</h2>
-    <ul class="post-list">
+    {%- assign rss_url = page.url | replace: ".html", ".xml" -%}
+    {%- if rss_url -%}<p><a href="{{ rss_url | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></p>{%- endif -%}
+
+    <ul class="">
       {%- for post in site.posts -%}
       {% if post.channel_id == page.channel_id %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
       </li>
       {% endif %}
       {%- endfor -%}
