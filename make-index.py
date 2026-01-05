@@ -72,9 +72,9 @@ def possibly_fix_up_audio_title(a: Audio):
             a.title = a.title.removeprefix(prefix)
         
         remove_excitement_regexes = (
-            re.compile('\s+\([^\)]{0,40}\)$'),
-            re.compile('\W*(until now)?!$', re.I),
-            re.compile('!$'),
+            re.compile(r'\s+\([^\)]{0,40}\)$'),
+            re.compile(r'\W*(until now)?!$', re.I),
+            re.compile(r'!$'),
         )
         for regex in remove_excitement_regexes:
             a.title = regex.sub('', a.title)
